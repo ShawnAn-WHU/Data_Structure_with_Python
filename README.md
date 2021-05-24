@@ -3,7 +3,7 @@ Having a good command of **Data Structure** is an underlying basis to understand
 With the increasing popularity of **Python**, there is an unvoidable need studying to complete data structure with Python.
 According to the book, _Problem Solving with Algorithms and Data Structures Using Python_, we can get to know:
 
-    Linked List
+    Basic Data Structure
     Search
     Sort
     Tree

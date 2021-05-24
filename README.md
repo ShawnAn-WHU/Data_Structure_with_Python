@@ -10,3 +10,7 @@ According to the book, _Problem Solving with Algorithms and Data Structures Usin
     Gragh
 
 This repository aims at introducing some source codes related to **Data Structure**.
+
+./Linear Data Structure
+
+    Introduce Stack, Queue, and Linked List

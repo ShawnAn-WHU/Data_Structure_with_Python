@@ -14,3 +14,10 @@ This repository aims at introducing some source codes related to **Data Structur
 ./Linear Data Structure
 
     Introduce Stack, Queue, and Linked List
+
+./Search.py
+
+    Introduce some means of searching, include:
+        Sequential Search (for Ordered List)
+        Binary Search
+        Hash Table

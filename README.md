@@ -18,6 +18,6 @@ This repository aims at introducing some source codes related to **Data Structur
 ./Search.py
 
     Introduce some means of searching, including:
-        Sequential Search (for Ordered List)
-        Binary Search
-        Hash Table
+    1. Sequential Search (for Ordered List)
+    2. Binary Search
+    3. Hash Table

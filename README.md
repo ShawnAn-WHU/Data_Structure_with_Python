@@ -21,3 +21,11 @@ This repository aims at introducing some source codes related to **Data Structur
     1. Sequential Search (for Ordered List)
     2. Binary Search
     3. Hash Table
+
+./Sort.py
+
+    Introduce some means of sorting, including:
+    1. Bubble Sort
+    2. Selection Sort
+    3. Merge Sort
+    4. Quick Sort
